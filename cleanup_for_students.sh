@@ -5,8 +5,12 @@ echo "🧹 Cleaning up files for student template..."
 
 # Remove solution files
 echo "Removing solution files..."
-rm -f InClass3_SOLUTION.java
-rm -f Lab3_SOLUTION.java
+rm -f InClass1_SOLUTION.java
+rm -f Lab1_SOLUTION.java
+rm -f InClass1_Sample_Solution.java
+rm -f Lab1_Sample_Solution.java
+rm -f InClass1_Sample_Solution.class
+rm -f Lab1_Sample_Solution.class
 
 # Remove setup/development files
 echo "Removing development files..."
